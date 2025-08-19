@@ -65,3 +65,12 @@ git switch  main
 git commit -m "fix the conflicts"
 git push origin main
 ```
+
+# Bundle 3 exercise 1
+
+```
+git checkout main
+git checkout -b ft/team-page
+git add .
+git commit -m "add Team members"
+```
