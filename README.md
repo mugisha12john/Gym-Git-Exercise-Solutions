@@ -40,3 +40,12 @@ PS D:\hands-on practice\The Gym\Git-exercise> git push origin  main
 PS D:\hands-on practice\The Gym\Git-exercise> git stash pop "stash@{0}"
 PS D:\hands-on practice\The Gym\Git-exercise> git reset --hard
  ```
+
+# Bundle 2 exercise 1
+
+```
+git checkout -b ft/bundle-2
+git add .
+git commit -m "ft: service page inital commit"
+git push origin main ft/bundle-2
+```
