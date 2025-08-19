@@ -57,4 +57,6 @@ git checkout main
 git pull origin main
 git checkout -b ft/service-redesign
 git add .
+git commit -m "add services we offer"
+git push orifin ft/service-redesign
 ```
