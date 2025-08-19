@@ -49,3 +49,19 @@ git add .
 git commit -m "ft: service page inital commit"
 git push origin main ft/bundle-2
 ```
+
+# Bundle 2 exercise 2
+
+```
+git checkout main
+git pull origin main
+git checkout -b ft/service-redesign
+git add .
+git commit -m "add services we offer"
+git push orifin ft/service-redesign
+git diff ft/service-redesign main
+git pull origin main
+git switch  main
+git commit -m "fix the conflicts"
+git push origin main
+```
