@@ -82,5 +82,5 @@ git revert 65bddc1
 git checkout -b ft/home-page-redesign
 git switch main
 git pull origin main
-
+git rebase main
 ```
