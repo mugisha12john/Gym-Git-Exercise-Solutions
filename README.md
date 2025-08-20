@@ -71,7 +71,6 @@ git push origin main
 ```
 git checkout main
 git checkout -b ft/team-page
-git checkout -b ft/contact-page
-git log --oneline
-git cherry-pick  b150ee9
+git add .
+git commit -m "add Team members"
 ```
