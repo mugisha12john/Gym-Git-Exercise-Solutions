@@ -73,4 +73,14 @@ git checkout main
 git checkout -b ft/team-page
 git add .
 git commit -m "add Team members"
+git revert 65bddc1
+```
+
+# Bundle 3 exercise 2
+
+```
+git checkout -b ft/home-page-redesign
+git switch main
+git pull origin main
+
 ```
